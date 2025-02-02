@@ -53,12 +53,12 @@ button {
     cursor: pointer;
 }
 
-#yes {
+#YES {
     background-color: #54B435;
     color: white;
 }
 
-#no {
+#NO {
     background-color: #D61C4E;
     color: white;
 }
